@@ -1,2 +1,2 @@
-# git-ejemplo
+# Python practises and examples
 ejemplo de git
